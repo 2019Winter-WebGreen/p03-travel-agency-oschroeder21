@@ -1,0 +1,45 @@
+/*
+* Name
+* Due Date
+* project Name and Description
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {width: 90%;
+    margin: auto;
+font-family:Arial;
+background-color: antiquewhite;}
+
+/* tables css */
+table, td, th {border: 2px solid darkgreen;}
+table {border-collapse: collapse;}
+
+/* Cactus Picture */
+.cactuspic {float: right; height: 250px; width: 500px;}
+
+/* House Picture */
+.housepic {float: left; height: 250px; width: 500px;}
+
+/* Castle Picture */
+.castlepic {float: right; height: 250px; width: 500px;}
+
+/* Clear Floats */
+.clearflt {clear: both;}
+
+/* Tabel Picture */
+.tablepic {height: 150px; width: 150px;}
+
+/* Icon Size */
+.icons {height: 20px; width: 20px;}
+
+/* heading colors */
+h1 {color: darkgreen; background-color:rgb(204, 204, 0)}
+h3 {color: darkgreen;}
+h6 {color: darkgreen;}
