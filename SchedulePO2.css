@@ -1,0 +1,23 @@
+/*
+* Name
+* Due Date
+* project Name and Description
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+}
+
+thead {background-color: cornflowerblue}
+tfoot {background-color:deepskyblue;}
+tbody {background-color:antiquewhite;}
+
+table {border-collapse: collapse;}
+table, td, th {border: 2px solid navy;}
